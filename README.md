@@ -44,4 +44,21 @@ The goal of this project is to analyze and predict student performance based on 
 - Outliers were minimal after preprocessing
 - Data shows meaningful patterns useful for prediction
 
+## 🤖 Model Building
 
+### Models Used
+- Linear Regression
+- Decision Tree Regressor
+
+### Justification
+- Linear Regression is simple and effective for prediction
+- Decision Tree helps capture non-linear relationships
+
+### Evaluation Metrics
+- MAE (Mean Absolute Error)
+- R² Score
+
+### Results
+- Linear Regression R²: 1.0
+- Decision Tree R²: 0.92
+- Best Model: Linear regression
