@@ -15,7 +15,7 @@ The goal of this project is to analyze and predict student performance based on 
 
 ## 📂 Dataset
 - Source: Kaggle
-- Dataset Link: https://www.kaggle.com/datasets/borovai0/student-performance-analytics-dataset
+- Dataset Link: (https://1drv.ms/x/c/e2e1b78e65339b02/IQArq3utMCgfQr-Uh2f-RI7wASvoPTssTUIjzwJdJ3VR6YY?e=rYDEtt)
 
 ## ⚙️ Methodology
 - Data Collection from Kaggle
