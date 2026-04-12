@@ -15,7 +15,7 @@ The goal of this project is to analyze and predict student performance based on 
 
 ## 📂 Dataset
 - Source: Kaggle
-- Dataset Link: (https://1drv.ms/x/c/e2e1b78e65339b02/IQArq3utMCgfQr-Uh2f-RI7wASvoPTssTUIjzwJdJ3VR6YY?e=rYDEtt)
+- Dataset Link: https://1drv.ms/x/c/e2e1b78e65339b02/IQDAzBYtxoe7RYfJKfbkjE-FASjmkZOcN6X6y6uLgv25Hn4?e=TWt4DN
 
 ## ⚙️ Methodology
 - Data Collection from Kaggle
@@ -23,3 +23,14 @@ The goal of this project is to analyze and predict student performance based on 
 - Exploratory Data Analysis (EDA)
 - Model Building (Regression/Classification)
 - Visualization using graphs and dashboards
+  ## 📊 Data Description
+- Dataset contains student-related attributes like study hours, attendance, etc.
+- Number of rows:  4829
+- Number of columns: 14
+
+## 🧹 Preprocessing Steps
+- Removed missing values
+- Removed duplicates
+- Converted categorical data into numerical format
+
+
